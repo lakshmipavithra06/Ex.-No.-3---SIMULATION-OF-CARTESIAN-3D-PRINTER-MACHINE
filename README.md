@@ -60,22 +60,22 @@
 
 ## Output:
 <img width="1876" height="901" alt="image" src="https://github.com/user-attachments/assets/ca9e0481-74d9-49c3-9360-3654a8cf85b0" />
-###X-AXIS ASSEMBLY:
+### X-AXIS ASSEMBLY:
 
 <img width="1170" height="625" alt="Screenshot 2026-03-11 093905" src="https://github.com/user-attachments/assets/c98363d6-c30a-424c-b54e-ed942a86efa8" />
 
-###Y-AXIS ASSEMBLY:
+### Y-AXIS ASSEMBLY:
 
 
 <img width="1202" height="668" alt="image" src="https://github.com/user-attachments/assets/f5f0932d-6504-46c8-bf91-fa8681ce1e19" />
 
-###Z-AXIS ASSEMBLY:
+### Z-AXIS ASSEMBLY:
 
 
 
 <img width="1186" height="624" alt="Screenshot 2026-03-11 094328" src="https://github.com/user-attachments/assets/0336c028-d3e9-478a-aa7a-b5bf7b1658b3" />
 
-###COMPLETED ASSEMBLY:
+### COMPLETED ASSEMBLY:
 
 
 <img width="1177" height="629" alt="image" src="https://github.com/user-attachments/assets/febb0243-7300-4666-b996-88b60e5e9e41" />
